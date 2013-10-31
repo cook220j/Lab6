@@ -36,6 +36,8 @@ package com.toy.anagrams.lib;
  */
 final class StaticWordLibrary extends WordLibrary {
 
+    private int my_num =2;
+    
     private static final String[] WORD_LIST = {
         "abstraction",
         "ambiguous",
